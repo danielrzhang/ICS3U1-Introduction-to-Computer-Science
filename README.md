@@ -2,7 +2,7 @@
 Homework and assignments from RHHS's ICS3U1 (Grade 11 Computer Science) course.
 
 # Instructor
-Ms. Stretten
+Maria Stretten
 
 # Concepts Covered
  - 
