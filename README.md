@@ -18,16 +18,10 @@ Maria Stretten
       - Parameter Passing, Return Values, Variable Scope
 
  - **String Manipulation and Arrays**
-      - String Operations, Concatenation, 1D and Multidimensional Arrays, Arrays and Methods
+      - String Methods and Operations, Concatenation, 1D and Multidimensional Arrays, Arrays and Methods
 
  - **Final Project**
-      - 
-
-
-
-
-
-
+      - Work Logging, Planning, Coding, Testing
 
 # Notes
  - Ms. Stretten is a really, *really* dreadful teacher because she doesn't really teach anything and has a bad accent, but if you grit your teeth and do all your work and hand in all your assignments, you'll pass the course.
