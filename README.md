@@ -8,7 +8,7 @@ Maria Stretten
  - **The Computer**
       - Number Systems (Binary and Hexadecimal), Components of a Computer, Functions of a Computer
    
- - **Basic Computer Operations**
+ - **Basic Java Operations**
       - Input/Processing/Output, Arithmetic and Calculations, Variables, Rounding
 
  - **Selection and Repetition**
