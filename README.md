@@ -1,10 +1,7 @@
 # ICS3U1-Introduction-to-Computer-Science
 Homework and assignments from RHHS's ICS3U1 (Grade 11 Computer Science) course.
 
-# Concepts Covered
- - **The Computer**
-      - Number Systems (Binary and Hexadecimal), Components of a Computer, Functions of a Computer
-   
+# Concepts Covered   
  - **Basic Java Operations**
       - Input/Processing/Output, Arithmetic and Calculations, Variables, Rounding
 
