@@ -1,5 +1,5 @@
-# ICS3U1-Introduction-to-Computer-Science
-Homework and assignments from RHHS's ICS3U1 (Grade 11 Computer Science) course.
+# ICS3U-Introduction-to-Computer-Science
+Homework and assignments from RHHS's ICS3U (Grade 11 Computer Science) course.
 
 # Concepts Covered   
  - **Basic Java Operations**
