@@ -14,7 +14,7 @@ Homework and assignments from RHHS's ICS3U1 (Grade 11 Computer Science) course.
  - **String Manipulation and Arrays**
       - String Methods and Operations, Concatenation, 1D and Multidimensional Arrays, Arrays and Methods
 
- - **GUI**
+ - **GUI (Graphical User Interface) - Graphics**
       - Java Swing
     
  - **Final Project**
