@@ -1,5 +1,5 @@
 # ICS3U-Introduction-to-Computer-Science
-![](/images/Java.png)
+![](/images/RHHS.png) ![](/images/JavaLogo.jfif)
 
 Homework and assignments from RHHS's ICS3U (Grade 11 Computer Science) course.
 
