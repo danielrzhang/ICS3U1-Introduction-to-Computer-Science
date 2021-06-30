@@ -19,5 +19,5 @@ Homework and assignments from RHHS's ICS3U (Grade 11 Computer Science) course.
  - **GUI (Graphical User Interface) - Graphics**
       - Java Swing
     
- - [**Final Project**](https://github.com/danielrzhang/ICS3U-Final-Project)
+ - **Final Project**
       - Work Logging, Planning, Coding, Testing
